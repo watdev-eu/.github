@@ -6,3 +6,5 @@ The project [WATDEV - Climate Smart WATer Management and Sustainable DEVelopment
 European Union](https://europa.eu/capacity4dev/desira) and aims to develop an in-depth 
 understanding of small and large-scale water and agricultural resource dynamics and management while boosting people’s resilience to climate, through innovative 
 research, modelling, and capacity building approaches.
+
+The latest version of the toolbox is available at [toolbox.watdev.eu](https://toolbox.watdev.eu)
